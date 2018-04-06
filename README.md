@@ -1,0 +1,2 @@
+# HibernateSample
+simple hibernate example
